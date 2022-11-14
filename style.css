@@ -21,7 +21,6 @@ body {
 .wrapper {
   display: flex;
   flex-direction: row-reverse;
-  justify-content: center;
   width: 1200px;
   margin: 50px auto;
   padding: 40px 20px 40px 20px;
